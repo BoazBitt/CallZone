@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="139" height="31" viewBox="0 0 139 31">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.278" x2="1.201" y2="1.18" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff2fff"/>
+      <stop offset="1" stop-color="#009dff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_63" data-name="Rectangle 63" width="19.683" height="19.683" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_95" data-name="Group 95" transform="translate(-60 -195.558)">
+    <text id="Fushiguro_Megumi" data-name="Fushiguro Megumi" transform="translate(127 220.558)" fill="#fff" font-size="26" font-family="Inter-Bold, Inter" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0" xml:space="preserve">Z    NE</tspan></text>
+    <text id="Fushiguro_Megumi-2" data-name="Fushiguro Megumi" transform="translate(60 220.558)" fill="#fff" font-size="26" font-family="Inter-Bold, Inter" font-weight="700" letter-spacing="-0.03em"><tspan x="0" y="0">CALL</tspan></text>
+    <g id="Group_94" data-name="Group 94" transform="translate(144.721 201.84)">
+      <g id="Group_92" data-name="Group 92" clip-path="url(#clip-path)">
+        <path id="Path_90" data-name="Path 90" d="M19.683,19.683H9.841a9.841,9.841,0,1,1,9.841-9.841ZM9.841,3.5a6.342,6.342,0,1,0,0,12.683h6.342V9.842A6.349,6.349,0,0,0,9.841,3.5" fill="url(#linear-gradient)"/>
+        <path id="Path_91" data-name="Path 91" d="M67.407,94.921a1.558,1.558,0,1,1-1.558-1.558,1.558,1.558,0,0,1,1.558,1.558" transform="translate(-58.379 -84.777)" fill="#fff"/>
+        <path id="Path_92" data-name="Path 92" d="M118.975,94.921a1.558,1.558,0,1,1-1.558-1.558,1.558,1.558,0,0,1,1.558,1.558" transform="translate(-105.205 -84.777)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
